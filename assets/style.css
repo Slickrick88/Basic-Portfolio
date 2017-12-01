@@ -1,0 +1,25 @@
+.h1 {
+	background-color: lightseagreen;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	justify-content: center;
+}
+
+.h2 {
+	color:lightseagreen;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	background-color: white;
+	justify-content: left;
+}
+
+.h3 {
+	background-color: lightseagreen;
+	color: white;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	justify-content: center;
+}
+
+.p {
+	font-family: Arial, Helvetica, sans-serif;
+	justify-content: center;
+}
